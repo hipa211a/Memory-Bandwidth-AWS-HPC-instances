@@ -15,7 +15,7 @@
 | AWS hpc7a - AMD Zen4 Genoa (hpc7a)  |   192|
 | AWS hpc6id - Intel Icelake  |   64|
 
-- More information regarding different AWS instances can be found here [AWS instance types](https://aws.amazon.com/ec2/instance-types/)
+- The actual instance names are a bit longer. Graviton2 (c6gn.16xlarge), Graviton3(hpc7g.16xlarge or c7gn.16xlarge), AMD Zen3 Milan (hpc6a.48xlarge), AMD Zen4 Genoa (hpc7a.96xlarge) and Intel Icelake (hpc6id.32xlarge). More information regarding different AWS instances can be found here [AWS instance types](https://aws.amazon.com/ec2/instance-types/)
 
 ## Memory bandwidth graph
 - The socket memory bandwidth comparison is shown in the following graph ![Socket bandwidth memory comparison](/pics/socket-bandwidth-comparison.png)
